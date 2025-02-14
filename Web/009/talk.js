@@ -57,11 +57,11 @@ function I() {
     modal('留下好多好多美好的回忆', J)
 }
 function I() {
-    modal('宝宝', J)
+    modal('宝宝！！！', J)
 }
 
 function J() {
-    modal('我爱你，我爱你，我爱你', function() {
+    modal('我爱你，我爱你，我爱你！！！', function() {
         fireworks();
     });
 }
