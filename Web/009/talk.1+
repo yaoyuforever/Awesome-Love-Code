@@ -51,17 +51,17 @@ function I() {
     modal('一起做手工', J)
 }
 function I() {
-    modal('一起爬山', J)
-}
-function I() {
     modal('一起拍很多很多的照片', J)
 }
 function I() {
-    modal('爱你，么么哒！', J)
+    modal('留下好多好多美好的回忆', J)
+}
+function I() {
+    modal('宝宝！！！', J)
 }
 
 function J() {
-    modal('宝宝，我爱你', function() {
+    modal('我爱你，我爱你，我爱你！！！', function() {
         fireworks();
     });
 }
