@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('我就知道小宝宝一定会愿意~(^_^)', function() {
+        modal('我就知道宝宝一定会愿意~(^_^)', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
@@ -30,7 +30,7 @@ function D() {
 }
 
 function E() {
-    modal('这辈子都不可能让你离开我的!!!', F);
+    modal('我要一直呆在宝宝身边', F);
 }
 
 function F() {
@@ -38,30 +38,30 @@ function F() {
 }
 
 function G() {
-    modal('房产证上写你的名字', H);
+    modal('我们还要一起做好多好多的事', H);
 }
 
 function H() {
-    modal('我会做饭', I);
+    modal('一起看日落', I);
 }
  function I() {
-    modal('我会买很多东西给你', J)
+    modal('一起旅游', J)
 }
 function I() {
-    modal('会好好疼你', J)
+    modal('一起做手工', J)
 }
 function I() {
-    modal('会哄你睡觉', J)
+    modal('一起面对未来的风雨', J)
 }
 function I() {
-    modal('会唱歌给你听', J)
+    modal('一起努力共同进步', J)
 }
 function I() {
-    modal('爱你。么么哒！', J)
+    modal('爱你，么么哒！', J)
 }
 
 function J() {
-    modal('行，我们去民政局登记吧', function() {
+    modal('我爱你，宝宝', function() {
         fireworks();
     });
 }
