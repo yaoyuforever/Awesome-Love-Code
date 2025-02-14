@@ -38,23 +38,23 @@ function F() {
 }
 
 function G() {
-    modal('我会做好多事，比如', H);
+    modal('我们还要一起做好多好多的事', H);
 }
 
 function H() {
-    modal('我会做饭', I);
+    modal('一起看日落', I);
 }
  function I() {
-    modal('我会买很多东西给你', J)
+    modal('一起旅游', J)
 }
 function I() {
-    modal('会好好疼你', J)
+    modal('一起做手工', J)
 }
 function I() {
-    modal('会哄你睡觉', J)
+    modal('一起爬山', J)
 }
 function I() {
-    modal('会唱歌给你听', J)
+    modal('一起拍很多很多的照片', J)
 }
 function I() {
     modal('爱你，么么哒！', J)
